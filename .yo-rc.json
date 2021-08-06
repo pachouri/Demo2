@@ -40,7 +40,9 @@
     "pages": [],
     "creationTimestamp": 1628236258086,
     "jwtSecretKey": "YmZjM2ZmYmZjYmQ4ODkyNzMyYzM4YmE0YWRjMjJiZTRiMTUwMjc1NGM5YmU4MmM2M2E4Njg2NTY5NDU5MjlkODJiZWUyYWYyNGVhMDA0MzUwZTZlMWE3M2E3YTNlNWI1NDgyOTYzNTMzNDI2ZjBiZTdjMWNiZTBhZTQxM2E3ZjQ=",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1628236348000
   },
   "git-provider": "GitHub",
   "git-company": "pachouri",
